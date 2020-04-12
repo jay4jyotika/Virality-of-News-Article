@@ -1,0 +1,5 @@
+http://edition.cnn.com/
+http://edition.cnn.com/world
+http://edition.cnn.com/politics
+http://edition.cnn.com/business
+http://edition.cnn.com/health
